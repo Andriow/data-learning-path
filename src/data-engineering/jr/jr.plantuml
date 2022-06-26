@@ -1,0 +1,59 @@
+@startuml
+' Edit me at https://plantuml-editor.kkeisuke.com/
+!theme spacelab
+left to right direction
+
+rectangle "Início" as begin
+rectangle "Python" as p
+rectangle "Referência da linguagem" as pr
+rectangle "Estrutura de dados" as pe
+rectangle "Acessar dados da WEB" as pa
+rectangle "Bancos de dados com Python" as pbd
+rectangle "Básico de ciência de dados com Python" as pbp
+rectangle "Bases de dados relacionais" as bd
+rectangle "Modelagem de bancos de dados relacionais" as bdm
+rectangle "Introdução a bancos de dados relacionais" as bdi
+rectangle "SQL" as s
+rectangle "Estrutura de uma query" as se
+rectangle "Construção de querys" as sc
+rectangle "Trabalhando com múltiplas tabelas" as st
+rectangle "SQL para ciência de dados" as sds
+rectangle "noSQL" as ns
+rectangle "Modelagem de bancos de dados não relacionais" as nsm
+rectangle "Introdução a bancos de dados não relacionais" as nsi
+rectangle "Pipeline de dados" as pd
+rectangle "Introdução ao Airflow" as pda
+rectangle "Processamento BATCH" as pdb
+rectangle "Infraestrutura para pipelines de dados" as pdi
+rectangle "Directed acyclic graph (DAG)" as pdd
+rectangle "Data scrapping" as ds
+rectangle "Introdução a WEB scrapping com Python" as dsi
+rectangle "Scrapy" as dss
+
+begin -> p
+p --> pr
+p --> pe
+p --> pa
+p --> pbd
+p --> pbp
+p -> bd
+bd -up-> bdm
+bd -up-> bdi
+bd -> s
+s --> se
+s --> sc
+s --> st
+s --> sds
+s -> ns
+ns -up-> nsm
+ns -up-> nsi
+ns -> pd
+pd -up-> pda
+pd -up-> pdb
+pd -up-> pdi
+pd -up-> pdd
+pd -> ds
+ds --> dsi
+ds --> dss
+
+@enduml

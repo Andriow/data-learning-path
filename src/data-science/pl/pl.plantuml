@@ -1,0 +1,55 @@
+@startuml
+' Edit me at https://plantuml-editor.kkeisuke.com/
+!theme spacelab
+left to right direction
+
+rectangle "Início" as begin
+rectangle "Estatística" as est
+rectangle "Gerenciamento de probabilidades" as ep
+rectangle "Estatística matemática" as em
+rectangle "Mineração de dados com estatística" as eme
+rectangle "Machine Learning" as ml
+rectangle "Engenharia de features" as mlef
+rectangle "Limpeza de datasets" as mlld
+rectangle "Python" as p
+rectangle "Python para machinhe learning" as pml
+rectangle "Pandas" as pp
+rectangle "Deep Learning" as dl
+rectangle "Introdução a deep learning" as dli
+rectangle "Exploração de dados" as edd
+rectangle "Análise de dados com python" as eddp
+rectangle "Visualização de dados" as v
+rectangle "Projetos guiados de visualização de dados" as vp
+rectangle "Sistemas de recomendação" as s
+rectangle "Introdução a sistemas de recomendação" as si
+rectangle "Técnicas báscicas de recomendação" as st
+rectangle "Monitoramento de modelos" as m
+rectangle "Introdução ao monitoramento de modelos" as mi
+rectangle "Data drift" as md
+rectangle "Concept drift" as mc
+
+begin -> est
+est --> ep
+est --> em
+est --> eme
+est -> ml
+ml -up-> mlef
+ml -up-> mlld
+ml -> p
+p --> pml
+p --> pp
+p -> dl
+dl -up-> dli
+dl -> edd
+edd --> eddp
+edd -> v
+v -up-> vp
+v -> s
+s --> si
+s --> st
+s -> m
+m -up-> mc
+m -up-> md
+m -up-> mi
+
+@enduml

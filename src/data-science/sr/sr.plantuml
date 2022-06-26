@@ -1,0 +1,67 @@
+@startuml
+' Edit me at https://plantuml-editor.kkeisuke.com/
+!theme spacelab
+left to right direction
+
+rectangle "Início" as begin
+rectangle "Estatística" as est
+rectangle "Estatística avançada para ciência de dados" as ea
+rectangle "Análises avançadas de séries temporais" as east
+rectangle "Otimizações convexas" as eoc
+rectangle "Machine Learning" as ml
+rectangle "Aprendizagem por reforço" as mlr
+rectangle "Machine Learning de forma prática" as mlp
+rectangle "Inteligência artificial em jogos" as mlj
+rectangle "Explicando modelos de inteligência artificial" as mle
+rectangle "Deep Learning" as dl
+rectangle "Construção de redes neurais" as dlb
+rectangle "TensorFlow" as dlt
+rectangle "Tecnicas de deploy de modelos" as dltd
+rectangle "Processamento de linguagem natural" as pln
+rectangle "spaCy" as plns
+rectangle "Introdução ao processamento de linguagem natural" as plni
+rectangle "Visão computacional" as vc
+rectangle "Introdução a visão computacional" as vci
+rectangle "Visualização de dados" as v
+rectangle "Visualização de dados complexos" as vdc
+rectangle "SHAP" as vs
+rectangle "Sistemas de recomendação" as s
+rectangle "Sistemas de recomendação com TensorFlow" as st
+rectangle "Sistemas de recomendação avançados" as sa
+rectangle "Data Storytelling" as ds
+rectangle "Data storytelling com tableau" as dst
+rectangle "Data storytelling com Design Thinking" as dsd
+rectangle "Canvas para data storytelling" as dsc
+rectangle "Introdução a data storyelling" as dsi
+
+begin -> est
+est --> ea
+est --> east
+est --> eoc
+est -> ml
+ml -up-> mlr
+ml -up-> mlp
+ml -up-> mlj
+ml -up-> mle
+ml -> dl
+dl --> dlb
+dl --> dlt
+dl --> dltd
+dl -> pln
+pln -up-> plns
+pln -up-> plni
+pln -> vc
+vc --> vci
+vc -> v
+v -up-> vdc
+v -up-> vs
+v -> s
+s --> st
+s --> sa
+s -> ds
+ds -up-> dst
+ds -up-> dsd
+ds -up-> dsc
+ds -up-> dsi
+
+@enduml

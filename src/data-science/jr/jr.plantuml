@@ -1,0 +1,65 @@
+@startuml
+' Edit me at https://plantuml-editor.kkeisuke.com/
+!theme spacelab
+left to right direction
+
+rectangle "Início" as begin
+rectangle "Estatística" as est
+rectangle "Estatística básica" as eb
+rectangle "Estatística com Python" as ep
+rectangle "Estatística para DataScience" as ed
+rectangle "Machine Learning" as ml
+rectangle "Conceitos básicos" as mlc
+rectangle "Introdução" as mli
+rectangle "Machine Learning com python" as mlp
+rectangle "SQL" as sql
+rectangle "Introdução a bancos de dados relacionais" as sqlibr
+rectangle "Estrutura de uma Query" as sqle
+rectangle "Construção de Querys" as sqlc
+rectangle "Trabalhando com multiplas tabelas" as sqlt
+rectangle "Modelagem de Bancos de dados relacionais" as sqlbr
+rectangle "SQL para ciência de dados" as sqlds
+rectangle "Python" as p
+rectangle "Referência da linguagem" as pr
+rectangle "Estruturas de dados" as ped
+rectangle "Acessar dados da WEB" as paw
+rectangle "Bancos de dados com Python" as pbd
+rectangle "Básico de ciência de dados com Python" as pb
+rectangle "Exploração de dados" as edd
+rectangle "Analise de dados exploratória" as edde
+rectangle "Exploração de features" as eddef
+rectangle "Análise exploratória automatizada" as edda
+rectangle "Visualização de dados" as v
+rectangle "Bibliotecas de gráficos no Python" as vbp
+rectangle "Visualização de dados com pandas" as vdp
+
+begin -> est
+est --> eb
+est --> ep
+est --> ed
+est -> ml
+ml -up-> mlp
+ml -up-> mli
+ml-up-> mlc
+ml-> sql
+sql --> sqlibr
+sql --> sqle
+sql --> sqlc
+sql --> sqlt
+sql --> sqlbr
+sql --> sqlds
+sql -> p
+p -up-> pb
+p -up-> pbd
+p -up-> paw
+p -up-> ped
+p -up-> pr
+p -> edd
+edd --> edde
+edd --> eddef
+edd --> edda
+edd -> v
+v -up-> vbp
+v -up-> vdp
+
+@enduml
