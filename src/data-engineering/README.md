@@ -24,7 +24,7 @@ Neste período de sua carreira sugerimos que você seja curioso e experimente fe
 
 <b>Trilha</b>
 
-![](junior/junior.png)
+![](jr/jr.png)
 
 
 
@@ -48,7 +48,7 @@ Neste período de sua carreira esperamos que você esteja pronto e resolvendo a 
 
 <b>Trilha</b>
 
-![](pleno/pleno.png)
+![](pl/pl.png)
 
 
 
@@ -77,4 +77,4 @@ Neste período de sua carreira esperamos que você esteja pronto para questionar
 
 <b>Trilha</b>
 
-![](senior/senior.png)
+![](sr/sr.png)
