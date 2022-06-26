@@ -1,0 +1,73 @@
+@startuml
+' Edit me at https://plantuml-editor.kkeisuke.com/
+!theme spacelab
+left to right direction
+
+rectangle "Início" as begin
+rectangle "Python" as p
+rectangle "Orientação a objetos" as poo
+rectangle "Bases de dados relacionais" as bd
+rectangle "Bancos de dados com alta disponibilidade" as bda
+rectangle "SQL" as s
+rectangle "Funções analíticas" as sf
+rectangle "Otimizações de querys" as so
+rectangle "noSQL" as ns
+rectangle "Redis" as nsr
+rectangle "Bancos de dados de grafos" as nsb
+rectangle "Banco de dados colunar" as bdc
+rectangle "Bancos de dados colunar distribuídos" as bdcd
+rectangle "Processamento em tempo real" as rt 
+rectangle "Particionamento de dados" as rtpd
+rectangle "Kafka na prática" as rtk
+rectangle "Manipulando valores" as rtkmv
+rectangle "Transformação de strem em evento" as rtktse
+rectangle "Conectando fontes de dados e sincronizadores" as rtkfs
+rectangle "Operações com janelas" as rtkj
+rectangle "União de dados" as rtku
+rectangle "Agregação de dados" as rtka
+rectangle "Manipulando streams" as rtkms
+rectangle "Roteamento de eventos" as rtkr
+rectangle "Tópicos no Kafka" as rtkt
+rectangle "Construindo aplicações" as rtkc
+rectangle "Produtores e consumidores" as rtkp
+rectangle "CDC" as rtc
+rectangle "Processamento de dados em streaming" as rtp
+rectangle "Pipeline de dados" as pd
+rectangle "Otimizações de pipelines" as pdo
+rectangle "Data scrapping" as ds
+rectangle "Quebra de captcha" as dsq
+
+begin -> p
+p --> poo
+p -> bd
+bd -up-> bda
+bd -> s
+s --> sf
+s --> so
+s -> ns
+ns -up-> nsb
+ns -up-> nsr
+ns -> bdc
+bdc --> bdcd
+bdc -> rt
+rt -up-> rtpd
+rt -up-> rtp
+rt -up-> rtc
+rt -up-> rtk
+rtk -up-> rtkmv
+rtk -up-> rtktse
+rtk -up-> rtkfs
+rtk -up-> rtkj
+rtk -up-> rtku
+rtk -up-> rtka
+rtk -up-> rtkms
+rtk -up-> rtkr
+rtk -up-> rtkt
+rtk -up-> rtkc
+rtk -up-> rtkp
+rt -> pd
+pd --> pdo
+pd -> ds
+ds --> dsq
+
+@enduml

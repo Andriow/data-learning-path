@@ -1,0 +1,67 @@
+@startuml
+' Edit me at https://plantuml-editor.kkeisuke.com/
+!theme spacelab
+left to right direction
+
+rectangle "Início" as begin
+rectangle "Python" as p
+rectangle "Python para machine learning" as pml
+rectangle "Pandas" as pp
+rectangle "Bases de dados relacionais" as bd
+rectangle "Gerenciamento de bases de dados relacionais" as bdg
+rectangle "SQL" as s
+rectangle "Tratamento de querys mais complexas" as st
+rectangle "noSQL" as ns
+rectangle "Configuração e gerenciamento de um ambiente MongoDB" as nsm
+rectangle "Banco de dados colunar" as bdc
+rectangle "Introdução a OLAP" as bdci
+rectangle "Diferenças entre bancos colunares e relacionais" as bdcr
+rectangle "Amazon Redshift" as bdcar
+rectangle "Processamento em tempo real" as rt 
+rectangle "Introdução ao kafka" as rtk
+rectangle "Conceito de streaming de dados" as rtc
+rectangle "Pipeline de dados" as pd
+rectangle "Utilização do docker operator no Airflow" as pda
+rectangle "Frameworks de pipelines de dados" as pdf
+rectangle "Arquitetura de pipeline de dados" as pdap
+rectangle "Feature Store" as pdfs
+rectangle "Spark" as sp
+rectangle "Introdução ao Spark" as spi
+rectangle "Spark no ambiente AWS" as spaws
+rectangle "Tuning dos parâmetros do Spark" as spt
+rectangle "Spark com Airflow e AWS" as spa
+rectangle "Data scrapping" as ds
+rectangle "Web scrapping com Python" as dsw
+rectangle "Extração de dados de redes sociais" as dssm
+
+begin -> p
+p --> pml
+p --> pp
+p -> bd
+bd -up-> bdg
+bd -> s
+s --> st
+s -> ns
+ns -up-> nsm
+ns -> bdc
+bdc --> bdci
+bdc --> bdcr
+bdc --> bdcar
+bdc -> rt
+rt -up-> rtk
+rt -up-> rtc
+rt -> pd
+pd --> pda
+pd --> pdf
+pd --> pdap
+pd --> pdfs
+pd -> sp
+sp -> ds
+sp -up-> spa
+sp -up-> spt
+sp -up-> spaws
+sp -up-> spi
+ds --> dsw
+ds -up-> dssm
+
+@enduml
