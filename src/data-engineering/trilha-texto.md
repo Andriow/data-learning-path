@@ -2,6 +2,9 @@
 
 ## Referência da linguagem
 - https://docs.python.org/3/tutorial/
+- https://www.learnpython.org/
+- https://automatetheboringstuff.com/
+- https://www.cosmicpython.com/book/preface.html
 
 ## Estruturas de dados
 - https://www.coursera.org/learn/python-data?specialization=python
@@ -48,9 +51,11 @@
 
 ## Estrutura de uma query
 - https://www.tutorialspoint.com/sql/index.htm
+- https://sqlzoo.net/wiki/SQL_Tutorial
 
 ## Construção de querys
 - https://www.codecademy.com/learn/learn-sql
+- https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1
 
 ## Trabalhando com múltiplas tabelas
 - https://www.sqlclimber.com/home
@@ -61,6 +66,7 @@
 ## Tratamento de querys mais complexas
 - https://sqlbolt.com/
 - https://www.khanacademy.org/computing/computer-programming/sql/
+- https://8weeksqlchallenge.com/
 
 ## Funções analíticas
 - https://www.kaggle.com/learn/advanced-sql
@@ -68,6 +74,7 @@
 ## Otimizações de querys
 - https://www.sisense.com/blog/8-ways-fine-tune-sql-queries-production-databases/
 - https://blogs.halodoc.io/learning-query-optimization-techniques/
+- https://use-the-index-luke.com/
 
 # noSQL
 
@@ -254,6 +261,7 @@
 
 ## Introdução ao Spark
 - https://databricks.com/p/ebook/learning-spark-from-oreilly
+- https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf
 - https://towardsdatascience.com/basics-of-apache-spark-configuration-settings-ca4faff40d45
 
 ## Spark no ambiente AWS
