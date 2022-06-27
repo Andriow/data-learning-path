@@ -239,3 +239,8 @@
 
 ## Data storytelling com tableau
 - https://www.coursera.org/specializations/data-visualization
+
+# Containers
+
+## Docker para ciência de dados
+https://towardsdatascience.com/docker-for-data-science-7927fb3c70d3

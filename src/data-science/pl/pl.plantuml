@@ -27,6 +27,8 @@ rectangle "Monitoramento de modelos" as m
 rectangle "Introdução ao monitoramento de modelos" as mi
 rectangle "Data drift" as md
 rectangle "Concept drift" as mc
+rectangle "Containers" as c
+rectangle "Docker para ciência de dados" as dc
 
 begin -> est
 est --> ep
@@ -51,5 +53,7 @@ s -> m
 m -up-> mc
 m -up-> md
 m -up-> mi
+m -> c
+c --> dc
 
 @enduml
