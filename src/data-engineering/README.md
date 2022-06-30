@@ -1,6 +1,6 @@
 # Engenheiro de Dados
 
-Para visualizar uma versão textual da trilha que também contem algumas sugestões de cursos clique [aqui.](trilha-texto.md)
+Para visualizar uma versão textual da trilha que também contem sugestões de conteúdos para cada item existente no diagrama, clique [aqui.](trilha-texto.md)[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Sugerimos que você analise as duas em conjunto.
 
