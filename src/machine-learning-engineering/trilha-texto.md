@@ -1,3 +1,24 @@
+- [Python](#python)
+  - [Orientação a objetos](#orientação-a-objetos)
+- [SQL](#sql)
+  - [Funções analíticas](#funções-analíticas)
+  - [Otimizações de querys](#otimizações-de-querys)
+- [noSQL](#nosql)
+  - [Redis](#redis)
+  - [Bancos de dados de grafos](#bancos-de-dados-de-grafos)
+- [Machine Learning](#machine-learning)
+  - [Machine Learning de forma prática](#machine-learning-de-forma-prática)
+  - [MLOps](#mlops)
+  - [Feature Store](#feature-store)
+- [Bases de dados relacionais](#bases-de-dados-relacionais)
+  - [Bancos de dados com alta disponibilidade](#bancos-de-dados-com-alta-disponibilidade)
+- [Formas de execução de modelos](#formas-de-execução-de-modelos)
+  - [Processamento BATCH](#processamento-batch)
+  - [Processamento de dados em streaming](#processamento-de-dados-em-streaming)
+- [Docker](#docker)
+  - [Introdução ao Docker](#introdução-ao-docker)
+  - [Tensorflow com Docker](#tensorflow-com-docker)
+  
 # Python
 
 ## Orientação a objetos
