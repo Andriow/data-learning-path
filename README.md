@@ -4,6 +4,8 @@ Bem vindo a trilha de desenvolvimento de carreira para áreas de dados, aqui voc
 
 Caso tenha interesse por alguma delas, você pode clicar no nome a baixo para ter uma visualização detalhada do roadmap de aprendizado, aliado a uma versão textual da trilha de aprendizado com links para conteúdos sobre os determinados assuntos.
 
-## [Engenheiro de Dados](src/data-engineering/README.md)
+## [Engenharia de Dados](src/data-engineering/README.md)
 
 ## [Cientista de Dados](src/data-science/README.md)
+
+## [Engenharia de Machine Learning](src/machine-learning-engineering/README.md)
