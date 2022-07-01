@@ -1,0 +1,49 @@
+@startuml
+' Edit me at https://plantuml-editor.kkeisuke.com/
+!theme spacelab
+left to right direction
+
+rectangle "Início" as begin
+rectangle "Python" as p
+rectangle "Orientação a objetos" as oo
+rectangle "SQL" as s
+rectangle "Funções analíticas" as fa
+rectangle "Otimizações de querys" as oq
+rectangle "noSQL" as ns
+rectangle "Redis" as r
+rectangle "Bancos de dados de grafos" as g
+rectangle "Machine Learning" as ml
+rectangle "Machine Learning de forma prática" as mlp
+rectangle "MLOps" as mlo
+rectangle "Feature Store" as fs
+rectangle "Bases de dados relacionais" as br
+rectangle "Bancos de dados com alta disponibilidade" as bd
+rectangle "Formas de execução de modelos" as fem
+rectangle "Processamento BATCH" as pb
+rectangle "Processamento de dados em streaming" as pr
+rectangle "Docker" as d
+rectangle "Introdução ao Docker" as id
+rectangle "Tensorflow com Docker" as td
+
+begin -> p
+p --> oo
+p -> s
+s -up->oq
+s -up-> fa
+s -> ns
+ns --> g
+ns --> r
+ns -> ml
+ml -up->fs
+ml -up-> mlo
+ml -up-> mlp
+ml -> br
+br --> bd
+br -> fem
+fem -up-> pr
+fem -up-> pb
+fem -> d
+d --> id
+d --> td
+
+@enduml
