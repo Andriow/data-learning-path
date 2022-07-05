@@ -126,8 +126,7 @@
 - https://online.stat.psu.edu/stat510/
 
   > **Introduction to Time Series Forecasting With Python** - Jason Brownlee
-  > &nbsp; [Acessar](https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/)
-  <br>
+  > &nbsp; [Acessar](https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/) <br>
   > **Deep Learning for Time Series Forecasting** - Jason Brownlee
   > &nbsp; [Acessar](https://drive.google.com/drive/folders/1ODNJId5h__C5IdcXgpHimuIaARzatwXi)
 
