@@ -81,6 +81,9 @@
 - https://online.stat.psu.edu/stat502
 - https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP_i6tAI7e.pdf
 
+  > **Think Stats** - Allen B. Downey
+  > &nbsp; [Acessar](https://greenteapress.com/thinkstats/)
+
 ## Estatística com Python
 
 - https://pt.coursera.org/specializations/statistics-with-python
@@ -95,14 +98,42 @@
 ## Estatística matemática
 - https://online.stat.psu.edu/stat415/
 
+  > **Statistical Methods for Machine Learning** - Jason Brownlee
+  > &nbsp; [Acessar](https://machinelearningmastery.com/statistics_for_machine_learning/)
+  <br>
+  > **All of Statistics** - Larry Wasserman
+  > &nbsp; [Acessar](https://www.amazon.com.br/All-Statistics-Concise-Statistical-Inference/dp/0387402721/ref=asc_df_0387402721/?tag=googleshopp00-20&linkCode=df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=3762270702354363644&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001634&hvtargid=pla-432003873022&psc=1)
+
 ## Mineração de dados com estatística
 - https://online.stat.psu.edu/stat508/
+
+  > **An Introduction to Statistical Learning** -
+  > Gareth James et al.
+  > &nbsp; [Acessar](https://www.statlearning.com/#:~:text=An%20Introduction%20to%20Statistical%20Learning%20provides%20a%20broad%20and%20less,contemporary%20tools%20for%20data%20analysis.)
+  <br>
+  > **The Elements of Statistical Learning** - Trevor Hastie et al.
+  > &nbsp; [Acessar](https://www.amazon.com.br/Elements-Statistical-Learning-Inference-Prediction/dp/0387848576)
 
 ## Estatística avançada para ciência de dados
 - https://www.coursera.org/specializations/advanced-statistics-data-science
 
+  > **Basics of Linear Algebra for Machine Learning** - Jason Brownlee
+  > &nbsp; [Acessar](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
+  <br>
+  > **Statistical Methods for Machine Learning** - Jason Brownlee
+  > &nbsp; [Acessar](https://machinelearningmastery.com/statistics_for_machine_learning/)
+  <br>
+  > **All of Statistics** - Larry Wasserman
+  > &nbsp; [Acessar](https://www.amazon.com.br/All-Statistics-Concise-Statistical-Inference/dp/0387402721/ref=asc_df_0387402721/?tag=googleshopp00-20&linkCode=df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=3762270702354363644&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001634&hvtargid=pla-432003873022&psc=1)
+
 ## Análises avançadas de séries temporais
 - https://online.stat.psu.edu/stat510/
+
+  > **Introduction to Time Series Forecasting With Python** - Jason Brownlee
+  > &nbsp; [Acessar](https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/)
+  <br>
+  > **Deep Learning for Time Series Forecasting** - Jason Brownlee
+  > &nbsp; [Acessar](https://drive.google.com/drive/folders/1ODNJId5h__C5IdcXgpHimuIaARzatwXi)
 
 ## Otimizações convexas
 - https://www.edx.org/course/convex-optimization
@@ -118,16 +149,34 @@
 - https://pt.coursera.org/learn/machine-learning
 - https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 
+  > **Machine Learning Mastery with Python** - Jason Brownlee
+  > &nbsp; [Acessar](https://machinelearningmastery.com/machine-learning-with-python/)
+
 ## Machine Learning com Python
 - https://pt.coursera.org/specializations/data-science-python
+
+  > **Machine Learning Mastery with Python** - Jason Brownlee
+  > &nbsp; [Acessar](https://machinelearningmastery.com/machine-learning-with-python/)
+  > <br>
+  > **Master Machine Learning Algorithms** - Jason Brownlee
+  > &nbsp; [Acessar](https://machinelearningmastery.com/master-machine-learning-algorithms/)
+  > <br>
+  > **Machine Learning Algorithms From Scratch** - Jason Brownlee
+  > &nbsp; [Acessar](https://machinelearningmastery.com/machine-learning-algorithms-from-scratch/)
 
 ## Limpeza de datasets
 - https://www.kaggle.com/learn/intermediate-machine-learning
 - https://www.kaggle.com/learn/data-cleaning
 
+  > **Data Preparation for Machine Learning** - Jason Brownlee
+  > &nbsp; [Acessar](https://machinelearningmastery.com/data-preparation-for-machine-learning)
+
 ## Engenharia de features
 - https://www.kaggle.com/learn/feature-engineering
 - https://www.kaggle.com/gunesevitan/titanic-advanced-feature-engineering-tutorial
+
+  > **Machine Learning Mastery with Python** - Jason Brownlee
+  > &nbsp; [Acessar](https://machinelearningmastery.com/machine-learning-with-python/)
 
 ## Explicando modelos de inteligência artificial
 - https://www.kaggle.com/learn/machine-learning-explainability
@@ -192,11 +241,29 @@
 - https://www.kaggle.com/vbmokin/data-science-with-dl-nlp-advanced-techniques
 - https://www.deeplearningbook.com.br/capitulos/
 
+  > **Deep Learning** - Ian Goodfellow e Aaron Courville
+  > &nbsp; [Acessar](https://www.amazon.com.br/Deep-Learning-Ian-Goodfellow/dp/0262035618/ref=asc_df_0262035618/?tag=googleshopp00-20&linkCode=df0&hvadid=379714545825&hvpos=&hvnetw=g&hvrand=10413412351866649307&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001634&hvtargid=pla-416263148149&psc=1)
+
 ## Construção de redes neurais
 - https://www.deeplearning.ai/program/deep-learning-specialization/
 
+  > **Deep Learning** - Ian Goodfellow e Aaron Courville
+  > &nbsp; [Acessar](https://www.amazon.com.br/Deep-Learning-Ian-Goodfellow/dp/0262035618/ref=asc_df_0262035618/?tag=googleshopp00-20&linkCode=df0&hvadid=379714545825&hvpos=&hvnetw=g&hvrand=10413412351866649307&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001634&hvtargid=pla-416263148149&psc=1)
+  <br>
+  > **Deep Learning with Python** - Jason Brownlee
+  > &nbsp; [Acessar](https://machinelearningmastery.com/deep-learning-with-python/)
+  <br>
+  > **Long Short-Term Memory Networks With Python** - Jason Brownlee
+  > &nbsp; [Acessar](https://machinelearningmastery.com/lstms-with-python/)
+
 ## TensorFlow
 - https://www.deeplearning.ai/program/tensorflow-developer-professional-certificate/
+
+  > **Deep Learning with Python** - Jason Brownlee
+  > &nbsp; [Acessar](https://machinelearningmastery.com/deep-learning-with-python/)
+  <br>
+  > **Long Short-Term Memory Networks With Python** - Jason Brownlee
+  > &nbsp; [Acessar](https://machinelearningmastery.com/lstms-with-python/)
 
 ## Tecnicas de deploy de modelos
 - https://www.deeplearning.ai/program/tensorflow-data-and-deployment-specialization/
