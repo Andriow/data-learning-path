@@ -128,7 +128,7 @@
   > **Introduction to Time Series Forecasting With Python** - Jason Brownlee
   > &nbsp; [Acessar](https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/) <br>
   > **Deep Learning for Time Series Forecasting** - Jason Brownlee
-  > &nbsp; [Acessar](https://drive.google.com/drive/folders/1ODNJId5h__C5IdcXgpHimuIaARzatwXi)
+  > &nbsp; [Acessar](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
 
 ## Otimizações convexas
 - https://www.edx.org/course/convex-optimization
