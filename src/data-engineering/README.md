@@ -57,7 +57,7 @@ Neste período de sua carreira esperamos que você esteja pronto e resolvendo a 
 
 Agora que você já é um engenheiro de dados capaz de desenvolver pipelines de dados complexos de maneira eficiente, aqui estão algumas skills técnicas que esperamos ver para seu próximo passo, é importante ressaltar que neste próximo passo a postura comportamental é muito mais importante do que para os passos anteriores. 
 
-Neste período de sua carreira esperamos que você esteja pronto para questionar quaisquer demandas que não façam sentido, ou mesmo os caminhos escolhidos para a solução, mais não é só questionar, também é apresentar alternativas coerentes, sugestões de melhorias e fazer parte da decisão de maneira assertiva. Nesta etapa esperamos que você seja visto como referencial técnico aos demais desenvolvedores, e que você esteja sempre se portando como protagonista, tanto no seu time, quanto no chapter. Esperamos de fato que você seja um verdadeiro resolvedor de problemas.
+Neste período de sua carreira esperamos que você esteja pronto para questionar quaisquer demandas que não façam sentido, ou mesmo os caminhos escolhidos para a solução, mas não é só questionar, também é apresentar alternativas coerentes, sugestões de melhorias e fazer parte da decisão de maneira assertiva. Nesta etapa esperamos que você seja visto como referencial técnico aos demais desenvolvedores, e que você esteja sempre se portando como protagonista, tanto no seu time, quanto no chapter. Esperamos de fato que você seja um verdadeiro resolvedor de problemas.
 
 <b>Comportamentos</b>
 
