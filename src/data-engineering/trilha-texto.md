@@ -370,3 +370,5 @@
  - https://srujandeshpande.medium.com/hoodwinking-captchas-with-a-web-scraper-3754bf87fbdf
  - https://webscraping.pro/recaptcha-solve-selenium-python/
  - https://www.deathbycaptcha.com/
+ - https://2captcha.com/
+ - https://github.com/Andriow/simple-captcha-solver
