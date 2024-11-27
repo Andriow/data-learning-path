@@ -365,6 +365,7 @@
  - https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781782164364/1
  - https://www.pluralsight.com/courses/advanced-web-scraping-tactics-python-playbook
  - https://www.codementor.io/blog/python-web-scraping-63l2v9sf2q
+ - https://pypi.org/project/mechanize/
 
  ## Quebra de captcha
  - https://srujandeshpande.medium.com/hoodwinking-captchas-with-a-web-scraper-3754bf87fbdf
