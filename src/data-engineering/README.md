@@ -108,3 +108,7 @@ Nessa etapa da sua carreira temos a expectativa de que você assuma uma posiçã
 - Estabelecer altos padrões e não ter medo de fazer o trabalho árduo.
 - Lidar com erros com foco em encontrar soluções, sem culpar os outros quando algo dá errado.
 - Se comunicar de maneira clara, tornando ideias complexas fáceis de entender e ouvir mais do que falar.
+
+<b>Trilha</b>
+
+![](esp/esp.svg)
