@@ -7,6 +7,7 @@
   - [Python para machinhe learning](#python-para-machinhe-learning)
   - [Pandas](#pandas)
   - [Orientação a objetos](#orientação-a-objetos)
+  - [Programação Funcional](#programação-funcional)
 - [Bases de dados relacionais](#bases-de-dados-relacionais)
   - [Introdução a bancos de dados relacionais](#introdução-a-bancos-de-dados-relacionais)
   - [Modelagem de bancos de dados relacionais](#modelagem-de-bancos-de-dados-relacionais)
@@ -104,6 +105,11 @@
 - https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2
 - https://www.coursera.org/learn/lab-poo-parte-1
 - https://www.coursera.org/learn/lab-poo-parte-2
+
+## Programação Funcional
+- https://docs.python.org/pt-br/3/howto/functional.html
+- https://docs.python.org/pt-br/3/library/functional.html
+- https://www.alura.com.br/artigos/programacao-funcional-no-python
 
 # Bases de dados relacionais
 
