@@ -78,3 +78,33 @@ Neste período de sua carreira esperamos que você esteja pronto para questionar
 <b>Trilha</b>
 
 ![](sr/sr.png)
+
+## Especialista
+
+Em um momento em que você já é um engenheiro de dados senior, possui um vasto conhecimento, a evolução de carreira tende a ser mais vinculada a postura comportamental do que propriamente o conhecimento técnico.
+
+Nessa etapa da sua carreira temos a expectativa de que você assuma uma posição de liderança técnica dentro do time em que você está inserido, e que seja capaz de transitar entre as soluções de negócio da companhia e as soluções técnicas, além de ter também uma passagem relacionada a arquitetura das soluções desenvolvidas. Nesse momento de carreira você precisa ter a visão ampla para entender como que as soluções que você desenvolve se encaixam junto com as demais soluções da companhia, como as alterações que o seu time impactam nos demais sistemas da empresa e como as alterações nos demais sistemas impactam aquilo que o seu time desenvolve. 
+
+<b>Comportamentos</b>
+
+- Ter atenção aos detalhes
+- Zelar sempre pela qualidade do dado trabalhado
+- Seguir uma cultura data driven
+- Compreender regras de negocio e criar soluções aderentes
+- Criar soluções de longo prazo
+- Visão holística da solução
+- Questionar soluções e solicitações 
+- Ser protagonista no squad e chapter
+- Propor novas soluções que ainda não foram mapeadas
+- Ter autonomia, capacidade de auto gestão e organização de trabalho
+- Ter boa capacidade de auxiliar os colegas de trabalho
+- Fomentar que todas as decisões da empresas sejam bem embasadas por dados.
+- Atuar na democratização do dado dentro da empresa
+- Desenvolver e implementar arquiteturas de dados robustas e escaláveis que atendam às necessidades da organização.
+- Identificar e resolver gargalos de desempenho em sistemas de dados, garantindo a eficiência e a rapidez no processamento de grandes volumes de dados.
+- Se relacionar com as demais lideranças da companhia para que confiem no seu julgamento e insights.
+- Dar feedback honesto e construtivo para colegas.
+- Manter a calma sob pressão.
+- Estabelecer altos padrões e não ter medo de fazer o trabalho árduo.
+- Lidar com erros com foco em encontrar soluções, sem culpar os outros quando algo dá errado.
+- Se comunicar de maneira clara, tornando ideias complexas fáceis de entender e ouvir mais do que falar.
