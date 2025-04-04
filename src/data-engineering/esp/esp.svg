@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="896.875px" preserveAspectRatio="none" style="width:844px;height:896px;background:#00000000;" version="1.1" viewBox="0 0 844 896" width="844.7917px" zoomAndPan="magnify"><defs><linearGradient id="grwpts4qmyedm0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#B8B8B8"/><stop offset="100%" stop-color="#6B6B6B"/></linearGradient></defs><g><!--MD5=[789d6d125e9916494e8ee78c359acdaf]
+entity begin--><g id="elem_begin"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="64.5833" x="382.8125" y="17.7083"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="33.3333" x="398.4375" y="44.9361">Início</text></g><!--MD5=[be5750da26e06623bc49653cefaf97c7]
+entity p--><g id="elem_p"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="76.0417" x="377.0833" y="100"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="44.7917" x="392.7083" y="127.2278">Python</text></g><!--MD5=[268d71dac742438b6aff46695e6d4194]
+entity pf--><g id="elem_pf"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="185.4167" x="620.8333" y="100"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="154.1667" x="636.4583" y="127.2278">Programação Funcional</text></g><!--MD5=[4a9be734efb4c6b89cb2f197a5e339c9]
+entity bd--><g id="elem_bd"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="211.4583" x="309.375" y="182.2917"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="180.2083" x="325" y="209.5194">Bases de dados relacionais</text></g><!--MD5=[2f29bd255334f390bda3a307c79f6a04]
+entity bdo--><g id="elem_bdo"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="211.4583" x="21.3542" y="182.2917"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="180.2083" x="36.9792" y="209.5194">Otimização de desempenho</text></g><!--MD5=[d8322213e5f4465576b8bf70cd9bce59]
+entity s--><g id="elem_s"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="55.2083" x="387.5" y="264.5833"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="403.125" y="291.8111">SQL</text></g><!--MD5=[e74ef3b3a003784962dd3667b8672065]
+entity sa--><g id="elem_sa"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="170.8333" x="628.125" y="264.5833"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="139.5833" x="643.75" y="291.8111">Consultas avançadas</text></g><!--MD5=[5afec40478bd2c44543bda9262cdccd2]
+entity ns--><g id="elem_ns"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="71.875" x="379.1667" y="346.875"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="40.625" x="394.7917" y="374.1028">noSQL</text></g><!--MD5=[8ebc2426a58613e505f16b302e818ea2]
+entity nsc--><g id="elem_nsc"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="101.0417" x="76.5625" y="346.875"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="69.7917" x="92.1875" y="374.1028">Cassandra</text></g><!--MD5=[2b7b224becc2ad0276b8088f01841517]
+entity bdc--><g id="elem_bdc"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="190.625" x="319.7917" y="429.1667"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="159.375" x="335.4167" y="456.3944">Banco de dados colunar</text></g><!--MD5=[11fca35ab418803d4457125490d85ac8]
+entity bdbq--><g id="elem_bdbq"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="88.5417" x="669.2708" y="357.2917"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="57.2917" x="684.8958" y="384.5194">BigQuery</text></g><!--MD5=[c84b872204ee42708e1ea9f94f05ce8d]
+entity ati--><g id="elem_ati"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="162.5" x="632.2917" y="439.5833"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="131.25" x="647.9167" y="466.8111">Athena com Iceberg</text></g><!--MD5=[fedc55ccb6ad57448bbf5b7483278383]
+entity rt--><g id="elem_rt"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="232.2917" x="298.9583" y="511.4583"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="201.0417" x="314.5833" y="538.6861">Processamento em tempo real</text></g><!--MD5=[e36026a61dbd2c71bf11cd4438ff32ca]
+entity rtf--><g id="elem_rtf"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="113.5417" x="70.3125" y="511.4583"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="82.2917" x="85.9375" y="538.6861">Apache Flink</text></g><!--MD5=[727c1040af9be188ab17d19c49f9ac10]
+entity ds--><g id="elem_ds"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="131.25" x="349.4792" y="840.625"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="100" x="365.1042" y="867.8528">Data scrapping</text></g><!--MD5=[4241cabc3c55e1ad4d1c75aef6125860]
+entity dsa--><g id="elem_dsa"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="194.7917" x="29.6875" y="840.625"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="163.5417" x="45.3125" y="867.8528">Automação de scrapping</text></g><!--MD5=[1865ce58b93b46dbf0f89b42133fbc97]
+entity sd--><g id="elem_sd"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="167.7083" x="331.25" y="593.75"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="136.4583" x="346.875" y="620.9778">Segurança de dados</text></g><!--MD5=[d381ffe3ccdcd39ec64ee9d690646fc8]
+entity sdc--><g id="elem_sdc"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="172.9167" x="627.0833" y="562.5"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="141.6667" x="642.7083" y="589.7278">Criptografia de dados</text></g><!--MD5=[60d014b075be52a1fe601908fef75d21]
+entity sdr--><g id="elem_sdr"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="230.2083" x="598.4375" y="644.7917"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="198.9583" x="614.0625" y="672.0194">Compliance e regulamentação</text></g><!--MD5=[1da348eb3a8ab0eed730e1defa8ec0b1]
+entity ml--><g id="elem_ml"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="165.625" x="332.2917" y="676.0417"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="134.375" x="347.9167" y="703.2694">Mentoria e liderança</text></g><!--MD5=[7aea00f9536ec3be270ff6cab1b3f740]
+entity mld--><g id="elem_mld"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="218.75" x="17.7083" y="676.0417"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="187.5" x="33.3333" y="703.2694">Desenvolvimento de equipes</text></g><!--MD5=[a2a1127a9e0c3d5a4af797120761d109]
+entity ad--><g id="elem_ad"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="170.8333" x="329.6875" y="758.3333"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="139.5833" x="345.3125" y="785.5611">Arquitetura de dados</text></g><!--MD5=[23a0e56eb5c03469bd54b2388573a0b7]
+entity add--><g id="elem_add"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="239.5833" x="593.75" y="747.9167"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="208.3333" x="609.375" y="775.1444">Design de sistemas distribuídos</text></g><!--MD5=[10247bc8988cd3ea843905a533b21e98]
+entity adi--><g id="elem_adi"><rect fill="url(#grwpts4qmyedm0)" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="185.4167" x="620.8333" y="830.2083"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="154.1667" x="636.4583" y="857.4361">Integração de sistemas</text></g><!--MD5=[c5aabd47bce38773821efe7f3f8cb672]
+link begin to p--><g id="link_begin_p"><path d="M415.1042,63.7292 C415.1042,73.9583 415.1042,84.1875 415.1042,94.4271 " fill="none" id="begin-to-p" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="415.1042,99.7708,419.2708,90.3958,415.1042,94.5625,410.9375,90.3958,415.1042,99.7708" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[2260d0d8b46688209d0ec9188f4d8d26]
+link p to pf--><g id="link_p_pf"><path d="M453.375,122.9167 C493.8125,122.9167 560.0417,122.9167 615.4167,122.9167 " fill="none" id="p-to-pf" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="620.7396,122.9167,611.3646,118.75,615.5313,122.9167,611.3646,127.0833,620.7396,122.9167" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[51070d1648d65d3c604cd70e0b6e7a4e]
+link p to bd--><g id="link_p_bd"><path d="M415.1042,146.0208 C415.1042,156.25 415.1042,166.4792 415.1042,176.7188 " fill="none" id="p-to-bd" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="415.1042,182.0625,419.2708,172.6875,415.1042,176.8542,410.9375,172.6875,415.1042,182.0625" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[f64b30ec51d77fc3a6dc3e869a5bb207]
+reverse link bdo to bd--><g id="link_bdo_bd"><path d="M238.2396,205.2083 C261.5625,205.2083 286.1146,205.2083 309.2292,205.2083 " fill="none" id="bdo-backto-bd" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="232.9688,205.2083,242.3556,209.3482,238.1771,205.1935,242.3318,201.0149,232.9688,205.2083" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[8642dcfef577df0bfc8593594a7666fb]
+link bd to s--><g id="link_bd_s"><path d="M415.1042,228.3125 C415.1042,238.5417 415.1042,248.7708 415.1042,259.0104 " fill="none" id="bd-to-s" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="415.1042,264.3542,419.2708,254.9792,415.1042,259.1458,410.9375,254.9792,415.1042,264.3542" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[3c3dc618d2aea4a21ccb6695605d1802]
+link s to sa--><g id="link_s_sa"><path d="M442.9688,287.5 C483.1458,287.5 560.8229,287.5 622.5104,287.5 " fill="none" id="s-to-sa" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="628.0521,287.5,618.6771,283.3333,622.8438,287.5,618.6771,291.6667,628.0521,287.5" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[72da3a2bb4b3f56484edaa0935ab4f9b]
+link s to ns--><g id="link_s_ns"><path d="M415.1042,310.6042 C415.1042,320.8333 415.1042,331.0625 415.1042,341.3021 " fill="none" id="s-to-ns" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="415.1042,346.6458,419.2708,337.2708,415.1042,341.4375,410.9375,337.2708,415.1042,346.6458" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[a2f0b508ccf8c003c01aed278b5654ba]
+reverse link nsc to ns--><g id="link_nsc_ns"><path d="M183.1042,369.7917 C240.9479,369.7917 330.25,369.7917 379.1354,369.7917 " fill="none" id="nsc-backto-ns" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="177.6042,369.7917,186.9792,373.9583,182.8125,369.7917,186.9792,365.625,177.6042,369.7917" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[287d2c8e697f77f8f6e17092e6cf7203]
+link ns to bdc--><g id="link_ns_bdc"><path d="M415.1042,392.8958 C415.1042,403.125 415.1042,413.3542 415.1042,423.5938 " fill="none" id="ns-to-bdc" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="415.1042,428.9375,419.2708,419.5625,415.1042,423.7292,410.9375,419.5625,415.1042,428.9375" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[81c0b684ddc2edc5daf10eea8ff36c3c]
+link bdc to bdbq--><g id="link_bdc_bdbq"><path d="M510.7292,429.1458 C561.6354,416.8021 622.2917,402.0833 663.7188,392.0417 " fill="none" id="bdc-to-bdbq" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="669.1771,390.7188,659.0877,388.8595,664.1131,391.9365,661.0361,396.9618,669.1771,390.7188" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[65bd7d2b44a4255c5e52768f3a707634]
+link bdc to ati--><g id="link_bdc_ati"><path d="M510.7292,455.4063 C548.0208,456.7188 590.5521,458.2188 626.9271,459.4896 " fill="none" id="bdc-to-ati" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="632.2396,459.6771,623.0257,455.1653,627.0348,459.4838,622.7164,463.4929,632.2396,459.6771" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[84da5a244a1807377390b7987df5e2d1]
+link bdc to rt--><g id="link_bdc_rt"><path d="M415.1042,475.1875 C415.1042,485.4167 415.1042,495.6458 415.1042,505.8854 " fill="none" id="bdc-to-rt" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="415.1042,511.2292,419.2708,501.8542,415.1042,506.0208,410.9375,501.8542,415.1042,511.2292" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[73de278680a74f678d3eb4b0ff85deaa]
+reverse link rtf to rt--><g id="link_rtf_rt"><path d="M189.3958,534.375 C221.3333,534.375 261.4688,534.375 298.9479,534.375 " fill="none" id="rtf-backto-rt" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="183.9375,534.375,193.3125,538.5417,189.1458,534.375,193.3125,530.2083,183.9375,534.375" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[d9f2adc9e8f0d4db7494f80bc21bd720]
+link rt to sd--><g id="link_rt_sd"><path d="M415.1042,557.4792 C415.1042,567.7083 415.1042,577.9375 415.1042,588.1771 " fill="none" id="rt-to-sd" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="415.1042,593.5208,419.2708,584.1458,415.1042,588.3125,410.9375,584.1458,415.1042,593.5208" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[637d1a30c305b8953359f2d0ba2fdd6b]
+link ad to ds--><g id="link_ad_ds"><path d="M415.1042,804.3542 C415.1042,814.5833 415.1042,824.8125 415.1042,835.0521 " fill="none" id="ad-to-ds" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="415.1042,840.3958,419.2708,831.0208,415.1042,835.1875,410.9375,831.0208,415.1042,840.3958" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[85c3ce74b3c0dbfa7bb6b5150d5ffdb5]
+reverse link dsa to ds--><g id="link_dsa_ds"><path d="M229.8542,863.5417 C269.5521,863.5417 313.8958,863.5417 349.125,863.5417 " fill="none" id="dsa-backto-ds" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="224.5313,863.5417,233.9063,867.7083,229.7396,863.5417,233.9063,859.375,224.5313,863.5417" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[8e344390c2e20f8329c41dda53db2ea5]
+link sd to sdc--><g id="link_sd_sdc"><path d="M499.0938,607.9167 C537.2708,603.8958 582.6771,599.1042 621.7708,594.9792 " fill="none" id="sd-to-sdc" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="627,594.4375,617.237,591.2854,621.8209,594.9882,618.1181,599.572,627,594.4375" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[987da064dfbd690f2203fdb8ac790969]
+link sd to sdr--><g id="link_sd_sdr"><path d="M499.0938,630.9479 C528.1458,635.9583 561.3854,641.6771 592.8333,647.0938 " fill="none" id="sd-to-sdr" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="598.2813,648.0313,589.7588,642.3199,593.1499,647.1388,588.331,650.53,598.2813,648.0313" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[88a890568856ef055049d139592646f0]
+link sd to ml--><g id="link_sd_ml"><path d="M415.1042,639.7708 C415.1042,650 415.1042,660.2292 415.1042,670.4688 " fill="none" id="sd-to-ml" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="415.1042,675.8125,419.2708,666.4375,415.1042,670.6042,410.9375,666.4375,415.1042,675.8125" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[3b19fde81ed2362fc7f6b5ce8de82006]
+reverse link mld to ml--><g id="link_mld_ml"><path d="M242.2083,698.9583 C272.1979,698.9583 303.9583,698.9583 331.9063,698.9583 " fill="none" id="mld-backto-ml" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="236.6354,698.9583,246.0104,703.125,241.8438,698.9583,246.0104,694.7917,236.6354,698.9583" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[bf496a42e2bfb8672f1690d562866376]
+link ml to ad--><g id="link_ml_ad"><path d="M415.1042,722.0625 C415.1042,732.2917 415.1042,742.5208 415.1042,752.7604 " fill="none" id="ml-to-ad" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="415.1042,758.1042,419.2708,748.7292,415.1042,752.8958,410.9375,748.7292,415.1042,758.1042" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[49995a0b1e5dab323fd2e36f2975399a]
+link ad to add--><g id="link_ad_add"><path d="M500.6771,778.2813 C527.8958,777.3229 558.6458,776.2396 588.1146,775.2083 " fill="none" id="ad-to-add" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="593.6042,775.0104,584.0919,771.1674,588.3989,775.1889,584.3774,779.4959,593.6042,775.0104" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[b27b88031adcd7475f12984715328cbb]
+link ad to adi--><g id="link_ad_adi"><path d="M500.6771,801.75 C536.3854,810.4063 578.1875,820.5521 615.1771,829.5208 " fill="none" id="ad-to-adi" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="620.5938,830.8333,612.457,824.5848,615.5306,829.6122,610.5032,832.6859,620.5938,830.8333" style="stroke:#446E9B;stroke-width:3.125;"/></g><!--MD5=[49e3f85fcf86313474f4649a0ed6610c]
+@startuml
+' Edit me at https://plantuml-editor.kkeisuke.com/
+!theme spacelab
+left to right direction
+
+rectangle "Início" as begin
+rectangle "Python" as p
+rectangle "Programação Funcional" as pf
+rectangle "Bases de dados relacionais" as bd
+rectangle "Otimização de desempenho" as bdo
+rectangle "SQL" as s
+rectangle "Consultas avançadas" as sa
+rectangle "noSQL" as ns
+rectangle "Cassandra" as nsc
+rectangle "Banco de dados colunar" as bdc
+rectangle "BigQuery" as bdbq
+rectangle "Athena com Iceberg" as ati
+rectangle "Processamento em tempo real" as rt 
+rectangle "Apache Flink" as rtf
+rectangle "Data scrapping" as ds
+rectangle "Automação de scrapping" as dsa
+rectangle "Segurança de dados" as sd
+rectangle "Criptografia de dados" as sdc
+rectangle "Compliance e regulamentação" as sdr
+rectangle "Mentoria e liderança" as ml
+rectangle "Desenvolvimento de equipes" as mld
+rectangle "Arquitetura de dados" as ad
+rectangle "Design de sistemas distribuídos" as add
+rectangle "Integração de sistemas" as adi
+
+begin -> p
+p - -> pf
+p -> bd
+bd -up-> bdo
+bd -> s
+s - -> sa
+s -> ns
+ns -up-> nsc
+ns -> bdc
+bdc - -> bdbq
+bdc - -> ati
+bdc -> rt
+rt -up-> rtf
+rt -> sd
+ad -> ds
+ds -up-> dsa
+sd - -> sdc
+sd - -> sdr
+sd -> ml
+ml -up-> mld
+ml -> ad
+ad - -> add
+ad - -> adi
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor transparent
+    FontColor #ffffff
+    HyperLinkColor #fd7e14
+    LineColor #304d6d
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+   Padding 15
+   roundcorner 20
+   BackgroundColor #446e9b-#304d6d
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #999999
+    FontColor #3399f3
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #333333
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #ffffff
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  #b8b8b8-#999999
+	FontColor #446e9b
+	BorderColor #999999
+  }
+  nwdiagDiagram {
+	network {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d    
+		LineColor #446e9b
+		LineThickness 1.0
+		FontColor #304d6d
+	}
+	server {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	}
+	arrow {
+		FontColor #304d6d
+		LineColor #304d6d
+	}
+	group {
+		BackGroundColor #eeeeee
+		LineColor #a7a7a7
+		LineThickness 2.0
+		Margin 5
+		Padding 5
+	}
+  }
+  ganttDiagram {
+	task {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+		LineColor #446e9b
+		Margin 10
+		Padding 6
+	}
+	note {
+		FontColor #ffffff
+		LineColor #246baa
+		BackGroundColor #3399f3
+	}
+	separator {
+		LineColor #999999
+		BackGroundColor #999999-#6b6b6b
+		FontColor #ffffff
+	}
+	milestone {
+		FontColor #3399f3
+		FontSize 16
+		FontStyle italic
+		BackGroundColor #999999
+		LineColor #6b6b6b
+	}
+	timeline {
+		BackgroundColor #999999
+		FontColor #ffffff
+	}
+	closed {
+		BackgroundColor #945200
+		FontColor #ffffff
+	}
+  }
+</style>
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #333333
+skinparam stereotype {
+    CBackgroundColor #b8b8b8
+    CBorderColor #6b6b6b
+    ABackgroundColor #4cbc5c
+    ABorderColor #32a243
+    IBackgroundColor #dc4e4d
+    IBorderColor #900100
+    EBackgroundColor #e19e4d
+    EBorderColor #945200
+    NBackgroundColor #70b8f7
+    NBorderColor #246baa
+}
+skinparam title {
+	FontColor	                 #304d6d
+	BorderColor	                 #6b6b6b
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #b8b8b8-#999999
+}
+
+skinparam legend {
+	BackgroundColor #999999
+	BorderColor #6b6b6b
+	FontColor #eeeeee
+}
+
+skinparam swimlane {
+	BorderColor #3399f3
+	BorderThickness 2
+	TitleBackgroundColor  #b8b8b8-#999999
+	TitleFontColor #304d6d
+}
+
+
+skinparam activity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BarColor #3cb521
+	StartColor #3399f3
+	EndColor #3399f3
+	DiamondBackgroundColor #b8b8b8-#6b6b6b
+  	DiamondBorderColor #6b6b6b
+  	DiamondFontColor #ffffff
+}
+
+
+skinparam participant {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #446e9b
+	FontColor #ffffff
+}
+
+
+skinparam sequence {
+	BorderColor #446e9b
+	TitleFontColor #446e9b
+	BackgroundColor transparent
+	StartColor #446e9b
+	EndColor #446e9b
+	BoxBackgroundColor transparent
+	BoxBorderColor #333333
+	BoxFontColor #333333
+	DelayFontColor #333333
+	LifeLineBorderColor #999999
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #6b6b6b-#6b6b6b
+	GroupBorderColor #333333
+	GroupFontColor #333333
+	GroupHeaderFontColor #3399f3
+	GroupBackgroundColor #6b6b6b-#6b6b6b
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #707070-#242424
+    DividerBorderColor #333333
+    DividerBorderThickness 2
+    DividerFontColor #eeeeee
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #333333
+	ReferenceFontColor #333333
+	ReferenceHeaderFontColor #3399f3
+	ReferenceHeaderBackgroundColor #6b6b6b-#6b6b6b
+	StereotypeFontColor #ffffff
+}
+
+
+skinparam partition {
+	BorderColor #446e9b
+	FontColor #446e9b
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam control {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam entity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam boundary {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam agent {
+	BackgroundColor #d47500
+	BorderColor #e19e4d
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam artifact {
+	BackgroundColor #333333
+	BorderColor #242424
+	FontColor #eeeeee
+}
+
+
+skinparam component {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam interface {
+	BackgroundColor  #900100
+	BorderColor  #cd0200
+	FontColor #333333
+}
+
+
+skinparam storage {
+	BackgroundColor #d47500
+  	BorderColor #945200
+	FontColor #ffffff
+}
+
+
+skinparam node {
+	BackgroundColor  #999999
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #333333
+}
+
+
+skinparam database {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam class {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	FontColor #ffffff
+	HeaderBackgroundColor #7c9ab9-#446e9b
+	StereotypeFontColor #eeeeee
+	BorderThickness 1
+	AttributeFontColor #eeeeee
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StereotypeFontColor #333333
+	BorderThickness 1
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam rectangle {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BackgroundColor #b8b8b8-#6b6b6b
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam package {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #446e9b
+	FontColor #446e9b
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #d47500
+	FontColor #d47500
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #3399f3
+	FontColor #3399f3
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StartColor #3399f3
+	EndColor #3399f3
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam card {
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam file {
+	BackgroundColor #6b6b6b-#6b6b6b
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam stack {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+left to right direction
+
+rectangle "Início" as begin
+rectangle "Python" as p
+rectangle "Programação Funcional" as pf
+rectangle "Bases de dados relacionais" as bd
+rectangle "Otimização de desempenho" as bdo
+rectangle "SQL" as s
+rectangle "Consultas avançadas" as sa
+rectangle "noSQL" as ns
+rectangle "Cassandra" as nsc
+rectangle "Banco de dados colunar" as bdc
+rectangle "BigQuery" as bdbq
+rectangle "Athena com Iceberg" as ati
+rectangle "Processamento em tempo real" as rt 
+rectangle "Apache Flink" as rtf
+rectangle "Data scrapping" as ds
+rectangle "Automação de scrapping" as dsa
+rectangle "Segurança de dados" as sd
+rectangle "Criptografia de dados" as sdc
+rectangle "Compliance e regulamentação" as sdr
+rectangle "Mentoria e liderança" as ml
+rectangle "Desenvolvimento de equipes" as mld
+rectangle "Arquitetura de dados" as ad
+rectangle "Design de sistemas distribuídos" as add
+rectangle "Integração de sistemas" as adi
+
+begin -> p
+p - -> pf
+p -> bd
+bd -up-> bdo
+bd -> s
+s - -> sa
+s -> ns
+ns -up-> nsc
+ns -> bdc
+bdc - -> bdbq
+bdc - -> ati
+bdc -> rt
+rt -up-> rtf
+rt -> sd
+ad -> ds
+ds -up-> dsa
+sd - -> sdc
+sd - -> sdr
+sd -> ml
+ml -up-> mld
+ml -> ad
+ad - -> add
+ad - -> adi
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

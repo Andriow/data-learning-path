@@ -1,0 +1,55 @@
+@startuml
+' Edit me at https://plantuml-editor.kkeisuke.com/
+!theme spacelab
+left to right direction
+
+rectangle "Início" as begin
+rectangle "Python" as p
+rectangle "Programação Funcional" as pf
+rectangle "Bases de dados relacionais" as bd
+rectangle "Otimização de desempenho" as bdo
+rectangle "SQL" as s
+rectangle "Consultas avançadas" as sa
+rectangle "noSQL" as ns
+rectangle "Cassandra" as nsc
+rectangle "Banco de dados colunar" as bdc
+rectangle "BigQuery" as bdbq
+rectangle "Athena com Iceberg" as ati
+rectangle "Processamento em tempo real" as rt 
+rectangle "Apache Flink" as rtf
+rectangle "Data scrapping" as ds
+rectangle "Automação de scrapping" as dsa
+rectangle "Segurança de dados" as sd
+rectangle "Criptografia de dados" as sdc
+rectangle "Compliance e regulamentação" as sdr
+rectangle "Mentoria e liderança" as ml
+rectangle "Desenvolvimento de equipes" as mld
+rectangle "Arquitetura de dados" as ad
+rectangle "Design de sistemas distribuídos" as add
+rectangle "Integração de sistemas" as adi
+
+begin -> p
+p --> pf
+p -> bd
+bd -up-> bdo
+bd -> s
+s --> sa
+s -> ns
+ns -up-> nsc
+ns -> bdc
+bdc --> bdbq
+bdc --> ati
+bdc -> rt
+rt -up-> rtf
+rt -> sd
+ad -> ds
+ds -up-> dsa
+sd --> sdc
+sd --> sdr
+sd -> ml
+ml -up-> mld
+ml -> ad
+ad --> add
+ad --> adi
+
+@enduml

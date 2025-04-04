@@ -7,11 +7,13 @@
   - [Python para machinhe learning](#python-para-machinhe-learning)
   - [Pandas](#pandas)
   - [Orientação a objetos](#orientação-a-objetos)
+  - [Programação Funcional](#programação-funcional)
 - [Bases de dados relacionais](#bases-de-dados-relacionais)
   - [Introdução a bancos de dados relacionais](#introdução-a-bancos-de-dados-relacionais)
   - [Modelagem de bancos de dados relacionais](#modelagem-de-bancos-de-dados-relacionais)
   - [Gerenciamento de bases de dados relacionais](#gerenciamento-de-bases-de-dados-relacionais)
   - [Bancos de dados com alta disponibilidade](#bancos-de-dados-com-alta-disponibilidade)
+  - [Otimização de desempenho](#otimização-de-desempenho)
 - [SQL](#sql)
   - [Estrutura de uma query](#estrutura-de-uma-query)
   - [Construção de querys](#construção-de-querys)
@@ -20,12 +22,14 @@
   - [Tratamento de querys mais complexas](#tratamento-de-querys-mais-complexas)
   - [Funções analíticas](#funções-analíticas)
   - [Otimizações de querys](#otimizações-de-querys)
+  - [Consultas Avançadas](#consultas-avançadas)
 - [noSQL](#nosql)
   - [Introdução a bancos de dados não relacionais](#introdução-a-bancos-de-dados-não-relacionais)
   - [Modelagem de bancos de dados não relacionais](#modelagem-de-bancos-de-dados-não-relacionais)
   - [Configuração e gerenciamento de um ambiente MongoDB](#configuração-e-gerenciamento-de-um-ambiente-mongodb)
   - [Redis](#redis)
   - [Bancos de dados de grafos](#bancos-de-dados-de-grafos)
+  - [Cassandra](#cassandra)
 - [Pipeline de dados](#pipeline-de-dados)
   - [Directed acyclic graph (DAG)](#directed-acyclic-graph-dag)
   - [Infraestrutura para pipelines de dados](#infraestrutura-para-pipelines-de-dados)
@@ -41,6 +45,8 @@
   - [Diferenças entre bancos colunares e relacionais](#diferenças-entre-bancos-colunares-e-relacionais)
   - [Amazon Redshift](#amazon-redshift)
   - [Bancos de dados colunar distribuídos](#bancos-de-dados-colunar-distribuídos)
+  - [Athena com Iceberg](#athena-com-iceberg)
+  - [Bigquery](#bigquery)
 - [Processamento em tempo real](#processamento-em-tempo-real)
   - [Conceito de streaming de dados](#conceito-de-streaming-de-dados)
   - [Introdução ao kafka](#introdução-ao-kafka)
@@ -58,6 +64,7 @@
       - [Manipulando valores](#manipulando-valores)
   - [Particionamento de dados](#particionamento-de-dados)
   - [CDC](#cdc)
+  - [Apache Flink](#apache-flink)
   - [Processamento de dados em streaming](#processamento-de-dados-em-streaming)
 - [Spark](#spark)
   - [Introdução ao Spark](#introdução-ao-spark)
@@ -70,6 +77,15 @@
   - [Extração de dados de redes sociais](#extração-de-dados-de-redes-sociais)
   - [Web scrapping com Python](#web-scrapping-com-python)
   - [Quebra de captcha](#quebra-de-captcha)
+  - [Automação de scrapping](#automação-de-scrapping)
+- [Segurança de Dados](#segurança-de-dados)
+  - [Criptografia de dados](#criptografia-de-dados)
+  - [Compliance e regulamentação](#compliance-e-regulamentação)
+- [Mentoria e Liderança](#mentoria-e-liderança)
+  - [Desenvolvimento de equipes](#desenvolvimento-de-equipes)
+- [Arquitetura de Dados](#arquitetura-de-dados)
+  - [Design de sistemas distribuídos](#design-de-sistemas-distribuídos)
+  - [Integração de sistemas](#integração-de-sistemas)
 
 # Python
 
@@ -105,6 +121,11 @@
 - https://www.coursera.org/learn/lab-poo-parte-1
 - https://www.coursera.org/learn/lab-poo-parte-2
 
+## Programação Funcional
+- https://docs.python.org/pt-br/3/howto/functional.html
+- https://docs.python.org/pt-br/3/library/functional.html
+- https://www.alura.com.br/artigos/programacao-funcional-no-python
+
 # Bases de dados relacionais
 
 ## Introdução a bancos de dados relacionais
@@ -119,6 +140,11 @@
 
 ## Bancos de dados com alta disponibilidade
 - https://www.freecodecamp.org/news/high-availability-concepts-and-theory/
+
+## Otimização de desempenho
+- https://www.ranktracker.com/pt-br/blog/top-10-best-practices-for-optimizing-databases-for-web-developers/
+- https://blog.xpeducacao.com.br/otimizacao-de-banco-de-dados/
+- https://www.webdevstory.com/database-performance-optimization/
 
 # SQL
 
@@ -148,6 +174,12 @@
 - https://www.sisense.com/blog/8-ways-fine-tune-sql-queries-production-databases/
 - https://blogs.halodoc.io/learning-query-optimization-techniques/
 - https://use-the-index-luke.com/
+- https://www.datacamp.com/pt/blog/sql-query-optimization
+
+## Consultas Avançadas
+- https://learnsql.com/blog/25-advanced-sql-query-examples/
+- https://airbyte.com/data-engineering-resources/advanced-sql-concepts
+- https://www.freecodecamp.org/news/advanced-sql-techniques/
 
 # noSQL
 
@@ -167,6 +199,12 @@
 ## Bancos de dados de grafos
 - https://neo4j.com/graphacademy/
 - https://vladbatushkov.medium.com/one-month-graph-challenge-star-wars-792ae5190b3b
+
+## Cassandra
+- https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/
+- https://www.udemy.com/course/cassandra-mastery-basic-to-advanced-with-hands-on-projects/
+- https://www.tutorialspoint.com/cassandra/index.htm
+- https://www.guru99.com/cassandra-tutorial.html
 
 # Pipeline de dados
 
@@ -203,7 +241,6 @@
 ## Otimizações de pipelines
 - https://databand.ai/blog/10-advanced-data-pipeline-strategies-for-data-engineers/
 
-
 # Banco de dados colunar
 
 ## Introdução a OLAP
@@ -218,6 +255,15 @@
 
 ## Bancos de dados colunar distribuídos
 - https://www.youtube.com/watch?v=tr2KcekX2kk
+
+## Athena com Iceberg
+- https://aws.amazon.com/pt/blogs/aws-brasil/como-a-junto-seguros-utilizou-o-iceberg-com-o-amazon-athena-para-simplificar-o-gerenciamento-do-data-lake/
+- https://aws.amazon.com/pt/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/
+- https://aws.amazon.com/pt/blogs/aws/replicate-changes-from-databases-to-apache-iceberg-tables-using-amazon-data-firehose/
+
+## Bigquery
+- https://cloud.google.com/bigquery/docs/introduction?hl=pt-br
+- https://www.datacamp.com/tutorial/beginners-guide-to-bigquery
 
 # Processamento em tempo real
 
@@ -320,11 +366,16 @@
 ## Particionamento de dados
 - https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster/
 - https://medium.com/bakdata/solving-my-weird-kafka-rebalancing-problems-c05e99535435
+
 ## CDC
 - https://debezium.io/documentation/reference/1.6/tutorial.html
 - https://towardsdatascience.com/all-data-integrations-should-use-change-data-capture-a1d207091773
 - https://debezium.io/blog/2020/02/25/lessons-learned-running-debezium-with-postgresql-on-rds/
 
+## Apache Flink
+- https://www.tutorialspoint.com/apache_flink/index.htm
+- https://www.baeldung.com/apache-flink
+- https://developer.confluent.io/courses/apache-flink/intro/
 
 ## Processamento de dados em streaming
 - https://www.youtube.com/watch?v=5inVCagXc2A
@@ -373,3 +424,52 @@
  - https://www.deathbycaptcha.com/
  - https://2captcha.com/
  - https://github.com/Andriow/simple-captcha-solver
+
+ ## Automação de scrapping
+ - https://escoladedados.org/tutoriais/automatize-coletas-de-dados-sem-programacao-com-o-web-scraper/
+ - https://www.youtube.com/watch?v=9BQ353Yu1D0
+ - https://www.reply.com/pt/quality-engineering/elevate-your-software-testing-with-generative-ai
+ - https://www.monografias.ufop.br/handle/35400000/6440
+
+ # Segurança de dados
+
+ ## Criptografia de dados
+ - https://www.infosecinstitute.com/resources/cryptography/beginners-guide-to-the-basics-of-data-encryption/
+ - https://www.tutorialspoint.com/cryptography/index.htm
+ - https://algocademy.com/blog/introduction-to-data-encryption-standards-and-practices/
+ - https://www.coursera.org/specializations/applied-crypto
+
+ ## Compliance e regulamentação
+ - https://www.gibsondunn.com/us-cybersecurity-and-data-privacy-review-and-outlook-2025/
+ - https://www.immuta.com/blog/the-complete-guide-to-data-security-compliance-laws-and-regulations/
+ - https://atlan.com/know/data-governance/data-security-and-compliance/
+ - https://www.scielo.br/j/pci/a/tb9czy3W9RtzgbWWxHTXkCc/
+ - https://www.scielo.br/j/rdbci/a/DWntpkXMB9GgCPKycFcxtts/
+ - https://www.nucleodoconhecimento.com.br/tecnologia/implicacoes-legais
+
+ # Mentoria e liderança
+ 
+ ## Desenvolvimento de equipes
+ - https://github.com/Andriow/new-lead-tools
+ - https://github.com/ronikobrosly/awesome-data-leadership
+ - https://aztechtraining.com/articles/the-role-of-coaching-and-mentoring-in-team-leadership
+ - https://www.togetherplatform.com/blog/mentoring-develop-leadership-skills-with-a-mentor
+ - https://www.atlassian.com/blog/leadership/how-to-be-a-good-mentor-for-your-whole-team
+ - https://livrariapublica.com.br/livros/pipeline-de-lideranca-ram-charan/
+ - https://www.catho.com.br/carreira-sucesso/pipeline-de-lideranca-a-teoria-de-lideranca-de-ram-sharam/
+ - https://rockcontent.com/br/blog/pipeline-de-lideranca/
+ 
+ # Arquitetura de dados
+ 
+ ## Design de sistemas distribuídos
+ - https://www.tutorialspoint.com/distributed-database-architecture
+ - https://www.codingdrills.com/tutorial/system-design-tutorial/distributed-databases
+ - https://www.multiplayer.app/distributed-systems-architecture/
+ - https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/
+ 
+ ## Integração de sistemas
+ - https://airbyte.com/data-engineering-resources/data-integration-architecture
+ - https://thectoclub.com/topics/data-integration-architecture/
+ - https://www.chaosgenius.io/blog/kappa-vs-lambda-architecture/
+ - https://nexocode.com/blog/posts/lambda-vs-kappa-architecture/
+ - https://data-science-blog.com/blog/2023/06/27/big-data-lambda-or-kappa-architecture/
