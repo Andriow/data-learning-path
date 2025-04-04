@@ -447,29 +447,29 @@
  - https://www.scielo.br/j/rdbci/a/DWntpkXMB9GgCPKycFcxtts/
  - https://www.nucleodoconhecimento.com.br/tecnologia/implicacoes-legais
 
-# Mentoria e liderança
-
-## Desenvolvimento de equipes
-- https://github.com/Andriow/new-lead-tools
-- https://github.com/ronikobrosly/awesome-data-leadership
-- https://aztechtraining.com/articles/the-role-of-coaching-and-mentoring-in-team-leadership
-- https://www.togetherplatform.com/blog/mentoring-develop-leadership-skills-with-a-mentor
-- https://www.atlassian.com/blog/leadership/how-to-be-a-good-mentor-for-your-whole-team
-- https://livrariapublica.com.br/livros/pipeline-de-lideranca-ram-charan/
-- https://www.catho.com.br/carreira-sucesso/pipeline-de-lideranca-a-teoria-de-lideranca-de-ram-sharam/
-- https://rockcontent.com/br/blog/pipeline-de-lideranca/
-
-# Arquitetura de dados
-
-## Design de sistemas distribuídos
-- https://www.tutorialspoint.com/distributed-database-architecture
-- https://www.codingdrills.com/tutorial/system-design-tutorial/distributed-databases
-- https://www.multiplayer.app/distributed-systems-architecture/
-- https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/
-
-## Integração de sistemas
-- https://airbyte.com/data-engineering-resources/data-integration-architecture
-- https://thectoclub.com/topics/data-integration-architecture/
-- https://www.chaosgenius.io/blog/kappa-vs-lambda-architecture/
-- https://nexocode.com/blog/posts/lambda-vs-kappa-architecture/
-- https://data-science-blog.com/blog/2023/06/27/big-data-lambda-or-kappa-architecture/
+ # Mentoria e liderança
+ 
+ ## Desenvolvimento de equipes
+ - https://github.com/Andriow/new-lead-tools
+ - https://github.com/ronikobrosly/awesome-data-leadership
+ - https://aztechtraining.com/articles/the-role-of-coaching-and-mentoring-in-team-leadership
+ - https://www.togetherplatform.com/blog/mentoring-develop-leadership-skills-with-a-mentor
+ - https://www.atlassian.com/blog/leadership/how-to-be-a-good-mentor-for-your-whole-team
+ - https://livrariapublica.com.br/livros/pipeline-de-lideranca-ram-charan/
+ - https://www.catho.com.br/carreira-sucesso/pipeline-de-lideranca-a-teoria-de-lideranca-de-ram-sharam/
+ - https://rockcontent.com/br/blog/pipeline-de-lideranca/
+ 
+ # Arquitetura de dados
+ 
+ ## Design de sistemas distribuídos
+ - https://www.tutorialspoint.com/distributed-database-architecture
+ - https://www.codingdrills.com/tutorial/system-design-tutorial/distributed-databases
+ - https://www.multiplayer.app/distributed-systems-architecture/
+ - https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/
+ 
+ ## Integração de sistemas
+ - https://airbyte.com/data-engineering-resources/data-integration-architecture
+ - https://thectoclub.com/topics/data-integration-architecture/
+ - https://www.chaosgenius.io/blog/kappa-vs-lambda-architecture/
+ - https://nexocode.com/blog/posts/lambda-vs-kappa-architecture/
+ - https://data-science-blog.com/blog/2023/06/27/big-data-lambda-or-kappa-architecture/
