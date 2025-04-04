@@ -77,6 +77,7 @@
   - [Extração de dados de redes sociais](#extração-de-dados-de-redes-sociais)
   - [Web scrapping com Python](#web-scrapping-com-python)
   - [Quebra de captcha](#quebra-de-captcha)
+  - [Automação de scrapping](#automação-de-scrapping)
 - [Segurança de Dados](#segurança-de-dados)
   - [Criptografia de dados](#criptografia-de-dados)
   - [Compliance e regulamentação](#compliance-e-regulamentação)
@@ -423,6 +424,12 @@
  - https://www.deathbycaptcha.com/
  - https://2captcha.com/
  - https://github.com/Andriow/simple-captcha-solver
+
+ # Automação de scrapping
+ - https://escoladedados.org/tutoriais/automatize-coletas-de-dados-sem-programacao-com-o-web-scraper/
+ - https://www.youtube.com/watch?v=9BQ353Yu1D0
+ - https://www.reply.com/pt/quality-engineering/elevate-your-software-testing-with-generative-ai
+ - https://www.monografias.ufop.br/handle/35400000/6440
 
  # Segurança de dados
 
