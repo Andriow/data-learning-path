@@ -77,6 +77,11 @@
   - [Extração de dados de redes sociais](#extração-de-dados-de-redes-sociais)
   - [Web scrapping com Python](#web-scrapping-com-python)
   - [Quebra de captcha](#quebra-de-captcha)
+- [Segurança de Dados](#segurança-de-dados)
+  - [Criptografia de dados](#criptografia-de-dados)
+  - [Compliance e regulamentação](#compliance-e-regulamentação)
+- [Mentoria e Liderança](#mentoria-e-liderança)
+  - [Desenvolvimento de equipes](#desenvolvimento-de-equipes)
 
 # Python
 
@@ -415,3 +420,31 @@
  - https://www.deathbycaptcha.com/
  - https://2captcha.com/
  - https://github.com/Andriow/simple-captcha-solver
+
+ # Segurança de dados
+
+ ## Criptografia de dados
+ - https://www.infosecinstitute.com/resources/cryptography/beginners-guide-to-the-basics-of-data-encryption/
+ - https://www.tutorialspoint.com/cryptography/index.htm
+ - https://algocademy.com/blog/introduction-to-data-encryption-standards-and-practices/
+ - https://www.coursera.org/specializations/applied-crypto
+
+ ## Compliance e regulamentação
+ - https://www.gibsondunn.com/us-cybersecurity-and-data-privacy-review-and-outlook-2025/
+ - https://www.immuta.com/blog/the-complete-guide-to-data-security-compliance-laws-and-regulations/
+ - https://atlan.com/know/data-governance/data-security-and-compliance/
+ - https://www.scielo.br/j/pci/a/tb9czy3W9RtzgbWWxHTXkCc/
+ - https://www.scielo.br/j/rdbci/a/DWntpkXMB9GgCPKycFcxtts/
+ - https://www.nucleodoconhecimento.com.br/tecnologia/implicacoes-legais
+
+# Mentoria e liderança
+
+## Desenvolvimento de equipes
+- https://github.com/Andriow/new-lead-tools
+- https://github.com/ronikobrosly/awesome-data-leadership
+- https://aztechtraining.com/articles/the-role-of-coaching-and-mentoring-in-team-leadership
+- https://www.togetherplatform.com/blog/mentoring-develop-leadership-skills-with-a-mentor
+- https://www.atlassian.com/blog/leadership/how-to-be-a-good-mentor-for-your-whole-team
+- https://livrariapublica.com.br/livros/pipeline-de-lideranca-ram-charan/
+- https://www.catho.com.br/carreira-sucesso/pipeline-de-lideranca-a-teoria-de-lideranca-de-ram-sharam/
+- https://rockcontent.com/br/blog/pipeline-de-lideranca/
