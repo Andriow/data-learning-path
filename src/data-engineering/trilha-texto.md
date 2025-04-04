@@ -425,7 +425,7 @@
  - https://2captcha.com/
  - https://github.com/Andriow/simple-captcha-solver
 
- # Automação de scrapping
+ ## Automação de scrapping
  - https://escoladedados.org/tutoriais/automatize-coletas-de-dados-sem-programacao-com-o-web-scraper/
  - https://www.youtube.com/watch?v=9BQ353Yu1D0
  - https://www.reply.com/pt/quality-engineering/elevate-your-software-testing-with-generative-ai
