@@ -82,6 +82,9 @@
   - [Compliance e regulamentação](#compliance-e-regulamentação)
 - [Mentoria e Liderança](#mentoria-e-liderança)
   - [Desenvolvimento de equipes](#desenvolvimento-de-equipes)
+- [Arquitetura de Dados](#arquitetura-de-dados)
+  - [Design de sistemas distribuídos](#design-de-sistemas-distribuídos)
+  - [Integração de sistemas](#integração-de-sistemas)
 
 # Python
 
@@ -448,3 +451,18 @@
 - https://livrariapublica.com.br/livros/pipeline-de-lideranca-ram-charan/
 - https://www.catho.com.br/carreira-sucesso/pipeline-de-lideranca-a-teoria-de-lideranca-de-ram-sharam/
 - https://rockcontent.com/br/blog/pipeline-de-lideranca/
+
+# Arquitetura de dados
+
+## Design de sistemas distribuídos
+- https://www.tutorialspoint.com/distributed-database-architecture
+- https://www.codingdrills.com/tutorial/system-design-tutorial/distributed-databases
+- https://www.multiplayer.app/distributed-systems-architecture/
+- https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/
+
+## Integração de sistemas
+- https://airbyte.com/data-engineering-resources/data-integration-architecture
+- https://thectoclub.com/topics/data-integration-architecture/
+- https://www.chaosgenius.io/blog/kappa-vs-lambda-architecture/
+- https://nexocode.com/blog/posts/lambda-vs-kappa-architecture/
+- https://data-science-blog.com/blog/2023/06/27/big-data-lambda-or-kappa-architecture/
